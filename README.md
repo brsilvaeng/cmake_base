@@ -5,9 +5,9 @@ Serve para aprendizado.<br>
 
 ### Para funcionar:
 1. instalar o cmake;
-2. baixar o projeto do github;<br>
-3. dar permissão de execução para o arquivo compila_proj.sh;<br>
-4. executar o compila_proj.sh;<br>
+2. baixar o projeto do github;
+3. dar permissão de execução para o arquivo compila_proj.sh;
+4. executar o compila_proj.sh;
 
 
 
