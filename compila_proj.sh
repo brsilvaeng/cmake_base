@@ -19,10 +19,3 @@ echo "compila o codigo com o 'make'"
 make
 
 echo "FIM"
-# The project() command stores the version number and its components in variables
-
-#     PROJECT_VERSION, <PROJECT-NAME>_VERSION
-#     PROJECT_VERSION_MAJOR, <PROJECT-NAME>_VERSION_MAJOR
-#     PROJECT_VERSION_MINOR, <PROJECT-NAME>_VERSION_MINOR
-#     PROJECT_VERSION_PATCH, <PROJECT-NAME>_VERSION_PATCH
-#     PROJECT_VERSION_TWEAK, <PROJECT-NAME>_VERSION_TWEAK
